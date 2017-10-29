@@ -7,7 +7,7 @@ Web server is built using Django REST framework in python.
 ###Screens:
 ---
 ##### Website:
-<img src="/Capture.PNG" alt="com" width="800" height="500"/>
+<img src="/Capture.PNG" alt="com" width="800" height="550"/>
 
 
 #Querying the server:
